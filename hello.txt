@@ -1,0 +1,8 @@
+Basic Commands used in Git:
+- git init
+- git add .
+- git commit -m "any message"
+- git push
+- git pull
+- git branch
+- git branch -d
